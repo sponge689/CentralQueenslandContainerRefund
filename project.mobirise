@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "cleanm4",
       "title": "CleanM4",
@@ -17719,7 +17719,7 @@
         }
       ]
     },
-    "Home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
