@@ -18815,24 +18815,6 @@
           "_params": {}
         },
         {
-          "alias": "eb-facebook-feed",
-          "_isSecondary": true,
-          "_styles": {},
-          "_name": "eb-facebook-feed",
-          "_sourceTheme": "cleanm4",
-          "_customHTML": "<section class=\"eb-facebook-feed\" group=\"Widget\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"facebookPlaceholder\">        <style>            .facebookPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>FACEBOOK POSTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-facebook-feed/assets/posts.jpg\">    </div></div></section>",
-          "_cid": "tfzIW8owtX",
-          "_anchor": "eb-facebook-feed-4v",
-          "safe": {
-            "id": 3424,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx6JM\"></div>"
-          },
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
           "alias": false,
           "_styles": {
             "& when not (@fullScreen)": {
