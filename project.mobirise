@@ -44,7 +44,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 175,
+    "uniqCompNum": 176,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/cqcr-logo-121x66-121x66.png",
@@ -54,7 +54,12 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "publishChangesOnly": false
   },
   "pages": {
@@ -18804,6 +18809,24 @@
           "_isUserblock": true,
           "_sourceTheme": "cleanm4",
           "_cid": "s2V9SnoqGp",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": "eb-facebook-feed",
+          "_isSecondary": true,
+          "_styles": {},
+          "_name": "eb-facebook-feed",
+          "_sourceTheme": "cleanm4",
+          "_customHTML": "<section class=\"eb-facebook-feed\" group=\"Widget\"><div style=\"max-width:600px;margin:0 auto;padding: 70px 0;\">    <div class=\"facebookPlaceholder\">        <style>            .facebookPlaceholder h2::after {content: \"\"; position: absolute; left: 0; bottom: 0; height: 100%; width: 100%;}        </style>        <h2>FACEBOOK POSTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2>        <img src=\"../eb-facebook-feed/assets/posts.jpg\">    </div></div></section>",
+          "_cid": "tfzIW8owtX",
+          "_anchor": "eb-facebook-feed-4v",
+          "safe": {
+            "id": 3424,
+            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx6JM\"></div>"
+          },
           "_protectedParams": [],
           "_global": false,
           "_once": false,
